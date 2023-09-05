@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Romadloni Putra**.\
+Perkenalkan nama saya **Romadloni Putra**.
 
 Saya seorang **Web Developer** 
 Saya merasa senang sekali terjun dalam dunia pemrograman.
