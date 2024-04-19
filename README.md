@@ -2,9 +2,9 @@
 
 Perkenalkan nama saya **Romadloni Putra**.
 
-Saya seorang **Web Developer**.\
-Saya merasa senang sekali terjun dalam dunia pemrograman.\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-romadloni-putra-899961200/)ku ya.
+**Web Developer**.\
+Merasa senang sekali terjun dalam dunia pemrograman.\
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/m-romadloni-putra-899961200/)ku ya.
 
 <p align="left">
 <a href="https://github.com/codesamar">
